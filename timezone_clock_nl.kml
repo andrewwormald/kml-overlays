@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+        <Style id="hidelist"><ListStyle><listItemType>checkHideChildren</listItemType><bgColor>00ffffff</bgColor><maxSnippetLines>0</maxSnippetLines></ListStyle></Style>
+        <styleUrl>#hidelist</styleUrl>
+	<name>World Timezone Clock</name>
+	<open>1</open>
+	<description>Click anywhere on the globe to see the current time for that location.</description>
+	<Link>
+		<href>http://www.barnabu.co.uk/files/kmz/timezone_clock.kmz</href>
+	</Link>
+</NetworkLink>
+</kml>
